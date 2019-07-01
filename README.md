@@ -39,3 +39,7 @@ As an alternative to downloading the code, click one of the links below to creat
 - [Java](http://cyber-dojo.org/forker/fork/4D363A34A7?avatar=vulture&tag=3)
 - [C++](http://cyber-dojo.org/forker/fork/A06DCDA217?avatar=wolf&tag=5)
 - [C#](http://cyber-dojo.org/forker/fork/672E047F5D?avatar=buffalo&tag=8)
+
+# Implementation notes
+
+Source kata code placed in *tennis_original.py* file.
